@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
