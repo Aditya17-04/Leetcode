@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/Aditya17-04/Leetcode/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
