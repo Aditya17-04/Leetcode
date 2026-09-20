@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya17-04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0260-single-number-iii](https://github.com/Aditya17-04/Leetcode/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya17-04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
