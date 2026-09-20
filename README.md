@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya17-04/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
