@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
+| [3516-find-closest-person](https://github.com/Aditya17-04/Leetcode/tree/master/3516-find-closest-person) |
 | [3959-check-good-integer](https://github.com/Aditya17-04/Leetcode/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
