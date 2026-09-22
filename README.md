@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
 | [3516-find-closest-person](https://github.com/Aditya17-04/Leetcode/tree/master/3516-find-closest-person) |
+| [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Aditya17-04/Leetcode/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Tree
 |  |
 | ------- |
