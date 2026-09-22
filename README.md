@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Aditya17-04/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya17-04/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya17-04/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aditya17-04/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bit Manipulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/Aditya17-04/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya17-04/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya17-04/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aditya17-04/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Two Pointers
 |  |
