@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Aditya17-04/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3516-find-closest-person](https://github.com/Aditya17-04/Leetcode/tree/master/3516-find-closest-person) |
 | [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Aditya17-04/Leetcode/tree/master/3959-check-good-integer) |
