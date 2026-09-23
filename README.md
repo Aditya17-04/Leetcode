@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
+| [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Aditya17-04/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Aditya17-04/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aditya17-04/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aditya17-04/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
