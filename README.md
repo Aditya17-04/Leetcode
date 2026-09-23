@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Aditya17-04/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya17-04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/Aditya17-04/Leetcode/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya17-04/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1720-decode-xored-array](https://github.com/Aditya17-04/Leetcode/tree/master/1720-decode-xored-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aditya17-04/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Aditya17-04/Leetcode/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya17-04/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Pigeonhole Principle
 |  |
