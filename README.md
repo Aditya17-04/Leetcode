@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Aditya17-04/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Aditya17-04/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2843-count-symmetric-integers](https://github.com/Aditya17-04/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aditya17-04/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Aditya17-04/Leetcode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya17-04/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/Aditya17-04/Leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
