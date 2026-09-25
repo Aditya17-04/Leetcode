@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya17-04/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aditya17-04/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya17-04/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aditya17-04/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
+| [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bubble Sort
 |  |
 | ------- |
