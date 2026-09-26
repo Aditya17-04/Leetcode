@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya17-04/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1720-decode-xored-array](https://github.com/Aditya17-04/Leetcode/tree/master/1720-decode-xored-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya17-04/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya17-04/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Aditya17-04/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya17-04/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya17-04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya17-04/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Quicksort
