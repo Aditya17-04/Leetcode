@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Aditya17-04/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Aditya17-04/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Aditya17-04/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -165,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Aditya17-04/Leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
