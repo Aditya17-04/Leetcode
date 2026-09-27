@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya17-04/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya17-04/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1534-count-good-triplets](https://github.com/Aditya17-04/Leetcode/tree/master/1534-count-good-triplets) |
 | [1720-decode-xored-array](https://github.com/Aditya17-04/Leetcode/tree/master/1720-decode-xored-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya17-04/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya17-04/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Aditya17-04/Leetcode/tree/master/1534-count-good-triplets) |
 | [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Aditya17-04/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Breadth-First Search
