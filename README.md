@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Aditya17-04/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya17-04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Aditya17-04/Leetcode/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya17-04/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya17-04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -181,9 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
