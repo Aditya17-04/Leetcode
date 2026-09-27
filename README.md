@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aditya17-04/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Aditya17-04/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Aditya17-04/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2843-count-symmetric-integers](https://github.com/Aditya17-04/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -171,9 +172,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Aditya17-04/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Breadth-First Search
 |  |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
