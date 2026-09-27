@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Aditya17-04/Leetcode/tree/master/1720-decode-xored-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya17-04/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya17-04/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1995-count-special-quadruplets](https://github.com/Aditya17-04/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Aditya17-04/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya17-04/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya17-04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1995-count-special-quadruplets](https://github.com/Aditya17-04/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Aditya17-04/Leetcode/tree/master/1534-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/Aditya17-04/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Aditya17-04/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Breadth-First Search
