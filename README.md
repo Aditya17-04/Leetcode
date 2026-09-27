@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya17-04/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya17-04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aditya17-04/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
