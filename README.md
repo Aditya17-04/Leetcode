@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya17-04/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya17-04/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aditya17-04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aditya17-04/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aditya17-04/Leetcode/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya17-04/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aditya17-04/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Aditya17-04/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Aditya17-04/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya17-04/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aditya17-04/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Quicksort
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Aditya17-04/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya17-04/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
+| [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Tree
