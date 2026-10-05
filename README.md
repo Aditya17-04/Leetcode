@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya17-04/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aditya17-04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Aditya17-04/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aditya17-04/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aditya17-04/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aditya17-04/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya17-04/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2942-find-words-containing-character](https://github.com/Aditya17-04/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya17-04/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Aditya17-04/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Aditya17-04/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
