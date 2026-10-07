@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aditya17-04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Aditya17-04/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aditya17-04/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Aditya17-04/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aditya17-04/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aditya17-04/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya17-04/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Aditya17-04/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bubble Sort
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya17-04/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
 | [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Aditya17-04/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Tree
