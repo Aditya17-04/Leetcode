@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aditya17-04/Leetcode/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya17-04/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aditya17-04/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya17-04/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1534-count-good-triplets](https://github.com/Aditya17-04/Leetcode/tree/master/1534-count-good-triplets) |
 | [1720-decode-xored-array](https://github.com/Aditya17-04/Leetcode/tree/master/1720-decode-xored-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Aditya17-04/Leetcode/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aditya17-04/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya17-04/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Aditya17-04/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya17-04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Aditya17-04/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aditya17-04/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/Aditya17-04/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya17-04/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
