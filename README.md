@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya17-04/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aditya17-04/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3866-first-unique-even-element](https://github.com/Aditya17-04/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/Aditya17-04/Leetcode/tree/master/2347-best-poker-hand) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Aditya17-04/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/Aditya17-04/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/Aditya17-04/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Aditya17-04/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Aditya17-04/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/Aditya17-04/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3866-first-unique-even-element](https://github.com/Aditya17-04/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Aditya17-04/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Tree
 |  |
