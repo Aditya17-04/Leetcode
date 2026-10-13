@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya17-04/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Aditya17-04/Leetcode/tree/master/0069-sqrtx) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aditya17-04/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/Aditya17-04/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aditya17-04/Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya17-04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya17-04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aditya17-04/Leetcode/tree/master/0704-binary-search) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Aditya17-04/Leetcode/tree/master/2427-number-of-common-factors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aditya17-04/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
