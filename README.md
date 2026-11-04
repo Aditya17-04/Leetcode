@@ -259,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aditya17-04/Leetcode/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Aditya17-04/Leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
